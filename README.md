@@ -1,16 +1,19 @@
-# AI for Software Engineering: Project Showcase 🤖
+# ML Playground ⚡
 
-This app demos three key pillars of AI, all deployed with Streamlit.
+Dive in. Code. Feel AI.  
 
-## 🚀 What's Inside:
+## What’s Inside
 
-* **Classical ML:** A Decision Tree classifying Iris species.
-* **Deep Learning:** A CNN recognizing handwritten digits.
-* **NLP:** Entity Recognition & Sentiment Analysis on product reviews.
+- **Classical ML** 🌿 – Decision Tree slicing **Iris species**. Fast. Clear. Fun.  
+- **Deep Learning** ✨ – CNN spotting **handwritten digits**. Pixels turn to magic.  
+- **NLP** 💬 – Entity Recognition & Sentiment on **product reviews**. Text speaks.  
 
-Use the sidebar to navigate between projects.
+## Try It Live
 
-## 🔗 Live Demo
+[Play with models](https://4faiyprlrea7eyysmbelm5.streamlit.app/)  
 
-Check out the live app here:
-`https://4faiyprlrea7eyysmbelm5.streamlit.app/`
+## Tech Stack
+
+- Python + Streamlit  
+- scikit-learn, TensorFlow, PyTorch  
+- NLTK & SpaCy 
