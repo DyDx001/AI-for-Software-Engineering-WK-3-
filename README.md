@@ -10,7 +10,7 @@ Dive in. Code. Feel AI.
 
 ## Try It Live
 
-[Play with models](https://4faiyprlrea7eyysmbelm5.streamlit.app/)  
+[Play with models](https://7wqpjwrvtnxvokqkrh8zch.streamlit.app/)  
 
 ## Tech Stack
 
